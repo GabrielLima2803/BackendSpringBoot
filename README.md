@@ -2,7 +2,7 @@
 
 ## 📖 Descrição
 
-Esta API foi construída usando **Spring Boot** e oferece endpoints para gerenciar usuários, autenticação, envio de e-mails e outras funcionalidades. 
+Esta API foi construída usando **Spring Boot** e oferece endpoints para gerenciar pedidos, autenticação, envio de e-mails e outras funcionalidades. 
 
 ## 🛠️ Tecnologias Utilizadas
 
